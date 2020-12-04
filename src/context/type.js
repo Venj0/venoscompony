@@ -1,0 +1,16 @@
+export const TOGGLE_HEADER ="TOGGLE_HEADER"
+export const PAGE_SIZE ="PAGE_SIZE"
+export const PAGES ="PAGES"
+export const TOGGLE_ACTIVE_PAGE ="TOGGLE_ACTIVE_PAGE"
+export const TOGGLE_PAGE ="TOGGLE_PAGE"
+export const LOADING ="LOADING"
+export const CHANGE_ACTIVE_LANGUAGE ="CHANGE_ACTIVE_LANGUAGE"
+
+
+
+export const TOGGLE_MORC ="TOGGLE_MORC"
+
+export const SET_LANGUAGES_AND_PAGES ="SET_LANGUAGES_AND_PAGES"
+export const CHANGE_LOGGED ="CHANGE_LOGGED"
+export const OPEN_VIEW_ALL = "OPEN_VIEW_ALL"
+export const OPEN_CV = "OPEN_CV"
