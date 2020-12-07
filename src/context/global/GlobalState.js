@@ -39,8 +39,21 @@ let initState = {
         page: -1
     },
     cv: {
-        open: false,
-        teg: -1
+        open: true,
+        teg: -1,
+        data:[
+            {
+                id:0,
+                name:["im masin","ob o mne","about me"],
+                text:["sfsdfsa","asdfasdfasdf","sadfasdfasdf"],
+            },
+            {
+                id:1,
+                name:["egsdim masin","ob o mne","about me"],
+                text:["sdgsdfgsdfgsf sfsdfsa","asdfasdfasdf","sadfasdfasdf"],
+            }
+        ]
+
     }
 
 }
@@ -155,6 +168,7 @@ export const GlobalState = ({children}) => {
         if (move > 50) t = 1
         setTimeout(() => movePage(t), 500)
     }
+    console.log(state)
 
     const handleTouchStart = (e) => {
 

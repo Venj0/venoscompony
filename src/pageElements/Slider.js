@@ -25,7 +25,7 @@ export const Slider = ({page}) => {
     slides += slides * count < data.length ? 1 : 0
     let [activeSlide, setActiveSlide] = useState(0)
 
-    console.log(activeSlide,count,slides,data.length)
+    // console.log(activeSlide,count,slides,data.length)
 
 
     let slider = useRef()

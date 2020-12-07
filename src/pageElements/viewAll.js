@@ -38,7 +38,9 @@ export const ViewAll = () => {
                            <h1>{global.pages[1].header[global.activeLanguage]}</h1>
                        </div>
                        <div className="content">
+                           <div>
                            {parse(global.pages[1].text[global.activeLanguage])}
+                           </div>
                        </div>
                    </StReadMore> : null
                 }
