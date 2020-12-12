@@ -882,22 +882,50 @@ export const StCv = styled.div`
   display: flex;
   justify-content: center;
   flex-wrap: wrap;   
+  .header{
+    
+  }
   
 `
-export const StCvNav = styled.div`
+export const StCvHeader = styled.div`
   position: fixed;
   z-index: 10000000;
   top: 0;
-  left: ${props=>props.open?0:props.w}px;
-  color: ${props=>props.bgc?bgc.lite:bgc.dark};
-  background-color: ${props=>(!props.bgc?bgc.lite:bgc.dark)};
-  width: ${props=>(props.w>1024?100:50)}px;
-  height: ${props=>props.h}px;
-  ${animation(["left"])};
-  overflow: hidden auto;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;   
+  height: ${props=>props.w>1024?100:50}px;
+  overflow:hidden;
+  box-shadow: 0 0 5px #909090;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  width: calc(100% - ${props=>props.w>1024?100:50}px);
+  left:  ${props=>props.w>1024?100:50}px;
+  
+  div{
+    width: fit-content;
+    position:relative;
+    padding: 0 20px;
+    height: 50px;
+    margin: 0 10px;
+    text-align: center;
+    hr{
+      position:absolute;
+      height: 3px;
+      background-color: ${bgc.dark};
+      display: block;
+      left: 50%;
+      bottom: 0;
+      border: none;
+      width: 0;
+      ${animation(["left","width"])};
+    }
+    a{
+      text-decoration: none; 
+    }
+    &:hover hr{
+      left: 0;
+      width: 100%;
+    }
+  }
 `
 
 export const StFlag =styled.button`

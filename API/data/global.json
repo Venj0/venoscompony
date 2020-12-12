@@ -1,0 +1,26 @@
+{
+  "activeLanguage": 0,
+  "header": {
+    "type": 0,
+    "top": 1,
+    "mobMenu": 0
+  },
+  "footer": {
+    "type": 0,
+    "visible": 0,
+    "mobMenu": 0
+  },
+  "mobile": false,
+  "showMobileMenu": false,
+  "showTopMenu": true,
+  "showFooter": false,
+  "sizes": {
+    "height": 0,
+    "width": 0
+  },
+  "pageSize": 0,
+  "showFooterMenu": false,
+  "headerHeight": 0,
+  "footerHeight": 0,
+  "contentHeight": 0
+}

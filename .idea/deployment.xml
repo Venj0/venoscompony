@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="o5552835" createEmptyFolders="true" filePermissions="420" folderPermissions="493" autoUploadExternalChanges="true" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="o5552835">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/server1" local="$PROJECT_DIR$/server1" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$/build" web="/" />
+            <mapping deploy="/portfolio" local="$PROJECT_DIR$/portfolio" web="/" />
+            <mapping deploy="/about" local="$PROJECT_DIR$/about" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

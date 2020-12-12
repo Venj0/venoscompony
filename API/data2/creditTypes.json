@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": ["","",""],
+    "infoText": ["","",""],
+    "creditTypes": [],
+    "appliedCreditTypes": [],
+    "minPrice": 0,
+    "maxPrice": 0,
+    "durations": "",
+    "procent" : 0,
+    "minAge": 0,
+    "PersonalType": "",
+    "workInfo": false
+
+  }
+]

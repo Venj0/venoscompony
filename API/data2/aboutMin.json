@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "avatar": "services/0.jp2",
+    "header": [
+      "ԱՐԱԳ ՎԱՐԿԵՐ",
+      "БЫСТРЫЕ КРЕДИТЫ",
+      "QUICK credits "
+    ],
+    "text": [
+      "Lorem Ipsum is simply dummy text of the printing and typesettin копия 2Lorem Ipsum is simply dummy text of the printing and typesettin копия",
+      "Lorem Ipsum is simply dummy text of the printing and typesettin копия 2Lorem Ipsum is simply dummy text of the printing and typesettin копия",
+      "Lorem Ipsum is simply dummy text of the printing and typesettin копия 2Lorem Ipsum is simply dummy text of the printing and typesettin копия"
+    ]
+  },
+  {
+    "id": 1,
+    "avatar": "services/1.jp2",
+    "header": [
+      "ԲՈԼՈՐԸ ՄԵԿ ՎԱՅՐՈՒՄ",
+      "ВСЕ В ОДНОМ МЕСТЕ",
+      "ALL IN ONE PLACE"
+    ],
+    "text": [
+      "Lorem Ipsum is simply dummy text of the printing and typesettin копия 2Lorem Ipsum is simply dummy text of the printing and typesettin копия",
+      "Lorem Ipsum is simply dummy text of the printing and typesettin копия 2Lorem Ipsum is simply dummy text of the printing and typesettin копия",
+      "Lorem Ipsum is simply dummy text of the printing and typesettin копия 2Lorem Ipsum is simply dummy text of the printing and typesettin копия"
+    ]
+  },
+  {
+    "id": 2,
+    "avatar": "services/2.jp2",
+    "header": [
+      "ԺԱՄԱՆԱԿԻ ԽՆԱՅՈՒՄ",
+      "ЭКОНОМИЯ ВРЕМЕНИ",
+      "SAVING TIME"
+    ],
+    "text": [
+      "Lorem Ipsum is simply dummy text of the printing and typesettin копия 2Lorem Ipsum is simply dummy text of the printing and typesettin копия",
+      "Lorem Ipsum is simply dummy text of the printing and typesettin копия 2Lorem Ipsum is simply dummy text of the printing and typesettin копия",
+      "Lorem Ipsum is simply dummy text of the printing and typesettin копия 2Lorem Ipsum is simply dummy text of the printing and typesettin копия"
+    ]
+  }
+]

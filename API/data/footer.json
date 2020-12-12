@@ -1,0 +1,23 @@
+{
+  "socIcons": true,
+  "contact": true,
+  "sectors":[
+    {
+      "id": 0,
+      "active": true,
+      "header": ["Գաղտնիության քաղաքականություն"],
+      "content": [],
+      "link": "#"
+    },
+    {
+      "id": 1,
+      "active": true,
+      "header": ["help"],
+      "content": [],
+      "link": "#"
+    }
+  ],
+
+  "copyRight": true
+
+}

@@ -1,0 +1,23 @@
+{
+  "tel": {
+    "active": true,
+    "value": "+(374)99 88-88-88",
+    "icon": "fas fa-phone",
+    "type": "tel",
+    "url": "tel:+(374)99 88-88-88"
+  },
+  "email": {
+    "active": true,
+    "value": "info@credx.am",
+    "icon": "fas fa-envelope",
+    "type": "mailTo",
+    "url": "mailTo:info@credx.am"
+  },
+  "location": {
+    "active": true,
+    "value": ["info@credx.am","gsdfgsdf","dfgsdfgsdfgsdfg"],
+    "icon": "fad fa-map-marker-alt",
+    "type": "mailTo",
+    "url": "/xzvxzcv"
+  }
+}

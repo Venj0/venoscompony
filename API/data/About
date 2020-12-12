@@ -1,0 +1,100 @@
+{
+  "blocks": [
+    {
+      "id": 0,
+      "visible": true,
+      "type": "about",
+      "header": [
+        "մեր մասին",
+        "о нас",
+        "about us"
+      ],
+      "data": [
+        " ykg kfgk dhmf dgm fygm tfs mdgy fsrysyksykdyksyfksrtkstjsrtjsrtjdrtj sftj stj sftj srtj stj stj stj sftj stj stj stj",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 1,
+      "visible": true,
+      "type": "contact",
+      "header": [
+        "կապվեք մեզ հետ",
+        "Связаться с нами",
+        "contact us"
+      ],
+      "data": true
+    },
+    {
+      "id": 2,
+      "visible": true,
+      "type": "soc",
+      "header": [
+        "հետևեք մեզ սոցիալական հարթակներում",
+        "подписывайтесь на нас в социальных сетях",
+        "follow us on social platforms"
+      ],
+      "data": true
+    },
+    {
+      "id": 3,
+      "visible": true,
+      "type": "banks",
+      "header": [
+        "համագործակցող բանկեր",
+        "сотрудничающие банки",
+        "cooperating banks"
+      ],
+      "data": true
+    },
+    {
+      "id": 4,
+      "visible": true,
+      "type": "credOrg",
+      "header": [
+        "վարկային հաստատություններ",
+        "кредитные организации",
+        "credit organizations"
+      ],
+      "data": true
+    },
+    {
+      "id": 5,
+      "visible": true,
+      "type": "map",
+      "header": [
+        "map",
+        "подписывайтесь на нас в социальных сетях",
+        "follow us on social platforms"
+      ],
+      "data": {
+        "size": {
+          "w": "100%",
+          "h": "50vh"
+        },
+        "mapData": {
+          "center": [
+            40.811599,
+            44.483365
+          ],
+          "zoom": 15,
+          "type": "yandex#hybrid",
+          "coordinates": [
+            [ 40.811599,
+              44.483365]
+          ],
+          "color": "#0a6368"
+        }
+      }
+    }
+  ],
+  "sort": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

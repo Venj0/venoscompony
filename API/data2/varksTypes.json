@@ -1,0 +1,53 @@
+[
+  {
+    "id": 0,
+    "url": "type0",
+    "bgC": "#13792a",
+    "avatar": "varksInfo/0.jp2",
+    "header": [
+      "Սպառողական Վարկեր",
+      "Потребительские кредиты",
+      "Consumer credit"
+    ],
+    "text": [
+      "",
+      "",
+      ""
+    ],
+    "photos": []
+  },
+  {
+    "id": 1,
+    "url": "type1",
+    "bgC": "#418702",
+    "avatar": "varksInfo/1.jp2",
+    "header": [
+      "Օվերդրաֆտ",
+      "овердрафт",
+      "Overdraft"
+    ],
+    "text": [
+      "",
+      "",
+      ""
+    ],
+    "photos": []
+  },
+  {
+    "id": 2,
+    "url": "type2",
+    "bgC": "#93BD46",
+    "avatar": "varksInfo/2.jp2",
+    "header": [
+      "Վարկային գիծ",
+      "Кредитная линия",
+      "Credit line"
+    ],
+    "text": [
+      "",
+      "",
+      ""
+    ],
+    "photos": []
+  }
+]

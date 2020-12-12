@@ -1,6 +1,7 @@
 import React, {useContext, useEffect, useState} from "react"
 import {GlobalContext} from "../context/global/globalContext";
 import {StCv, StCvNav, StViewAllCloseButton} from "../styles/styles";
+import {CvHeader} from "../components/cv/header";
 
 export const Cv = () => {
     let {global, toggleCV} = useContext(GlobalContext)
@@ -30,14 +31,7 @@ export const Cv = () => {
             </StViewAllCloseButton>
             <StCv open={state.open && !global.isOpenHeader} h={global.sizes.h} w={global.sizes.w}
                   bgc={false}>
-                <div>
-                    {
-                        state.data.map(item => <div key={item.id}>
-                            <h1>{item.name[global.activeLanguage]}</h1>
-                            <p>{item.text[global.activeLanguage]}</p>
-                        </div>)
-                    }
-                </div>
+              <CvHeader data={state.data} lang={global.activeLanguage}/>
             </StCv>
         </>
     )

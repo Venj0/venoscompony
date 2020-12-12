@@ -1,0 +1,133 @@
+{
+  "born": [
+    "ծնված",
+    "родившийся",
+    "born"
+  ],
+  "in": [
+    "մուտք",
+    "войти",
+    "sign in"
+  ],
+  "phoneCode": "+374",
+  "up": [
+    "գրանցվել",
+    "зарегистрироваться",
+    "sign up"
+  ],
+  "forgot": [
+    "վերականգնել գաղտնաբառը",
+    "Сброс пароля",
+    "reset password"
+  ],
+  "IncorrectKey": [
+    "Մուտքագրեք ճիշտ նույնականացման կոդ: ",
+    "Введите правильный идентификационный код. ",
+    "Enter the correct identification code. "
+  ],
+  "IncorrectInputData": [
+    "Սխալ մուտքային տվյալներ: ",
+    "Неправильные входные данные. ",
+    "Incorrect input data. "
+  ],
+  "IncorrectInputDataCounter": [
+    "Դեք կարող եք սխալվել եւս 3 անգան",
+    "Вы можете сделать еще {0} ошибки",
+    "You can make {0} more mistakes"
+  ],
+  "IncorrectInputDataCounter1": [
+    "Դեք կարող եք սխալվել եւս 1 անգան",
+    "Вы можете сделать еще одну ошибку",
+    "You can make another mistake"
+  ],
+  "or": [
+    " կամ ",
+    " или ",
+    " or "
+  ],
+  "phone": [
+    "Հեռ համար",
+    "Телефонный номер",
+    "Phone number"
+  ],
+  "email": [
+    "էլ հասցե",
+    "Эл. адрес",
+    "email"
+  ],
+  "code": [
+    "նույնականացման կոդ",
+    "идентификационный код",
+    "identification code"
+  ],
+  "pass": [
+    "գաղտնաբառ",
+    "пароль",
+    "password"
+  ],
+  "repeatPass": [
+    "Կրկնեք գաղտնաբառը",
+    "Повторите пароль",
+    "repeat password"
+  ],
+  "close": [
+    "փակել",
+    "Закрыть",
+    "close"
+  ],
+  "name": [
+    "Անուն :",
+    "имя :",
+    "name :"
+  ],
+  "sname": [
+    "ազգանուն :",
+    "фамилия :",
+    "surname :"
+  ],
+  "fname": [
+    "հայրանուն :",
+    "отчество :",
+    "patronymic :"
+  ],
+  "sex": [
+    "սեռ :",
+    "Пол :",
+    "Gender :"
+  ],
+  "year": [
+    "տարի",
+    "год",
+    "year"
+  ],
+  "mount": [
+    "ամիս",
+    "месяцы",
+    "months"
+  ],
+  "day": [
+    "օր",
+    "день",
+    "day"
+  ],
+  "saveData": [
+    "պահպանել տվյալները",
+    "сохранять данные",
+    "save data"
+  ],
+  "placeholder": {
+    "phone": "XX XXX XXX",
+    "email": "Email@example.com",
+    "pass": "**********",
+    "key": "¿?¿?¡?¿?¿"
+  },
+  "icon": {
+    "arrow": "fas fa-angle-double-right",
+    "email": "far fa-envelope",
+    "phone": "far fa-paper-plane",
+    "male": "fad fa-male",
+    "female": "fad fa-female"
+  },
+  "wellcome": ["բարի գալուստ","добро пожаловать","wellcome"]
+}
+

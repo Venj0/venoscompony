@@ -1,0 +1,116 @@
+[
+  {
+    "id": 0,
+    "url": "bank0",
+    "bgC": "#456465",
+    "tColor": "#fff",
+    "name": [
+      "biznes bank",
+      "SFDSDf",
+      "SFSDFSDfS"
+    ],
+    "logo": "banks/ffcc75fee6f64017a1645284146eeefa.jp2",
+    "text": [
+      "asfaS",
+      "FSFDASDF",
+      "SFDSFD"
+    ],
+    "creditTypes": [],
+    "appliedCreditTypes": []
+  },
+  {
+    "id": 1,
+    "url": "bank1",
+    "bgC": "#456465",
+    "tColor": "#fff",
+    "name": [
+      "biznes bank",
+      "SFDSDf",
+      "SFSDFSDfS"
+    ],
+    "logo": "banks/ffcc75fee6f64017a1645284146eeefa.jp2",
+    "text": [
+      "asfaS",
+      "FSFDASDF",
+      "SFDSFD"
+    ],
+    "creditTypes": [],
+    "appliedCreditTypes": []
+  },
+  {
+    "id": 2,
+    "url": "bank2",
+    "bgC": "#456465",
+    "tColor": "#fff",
+    "name": [
+      "biznes bank",
+      "SFDSDf",
+      "SFSDFSDfS"
+    ],
+    "logo": "banks/ffcc75fee6f64017a1645284146eeefa.jp2",
+    "text": [
+      "asfaS",
+      "FSFDASDF",
+      "SFDSFD"
+    ],
+    "creditTypes": [],
+    "appliedCreditTypes": []
+  },
+  {
+    "id": 3,
+    "url": "bank3",
+    "bgC": "#456465",
+    "tColor": "#fff",
+    "name": [
+      "biznes bank",
+      "SFDSDf",
+      "SFSDFSDfS"
+    ],
+    "logo": "banks/ffcc75fee6f64017a1645284146eeefa.jp2",
+    "text": [
+      "asfaS",
+      "FSFDASDF",
+      "SFDSFD"
+    ],
+    "creditTypes": [],
+    "appliedCreditTypes": []
+  },
+  {
+    "id": 4,
+    "url": "bank4",
+    "bgC": "#456465",
+    "tColor": "#fff",
+    "name": [
+      "biznes bank",
+      "SFDSDf",
+      "SFSDFSDfS"
+    ],
+    "logo": "banks/ffcc75fee6f64017a1645284146eeefa.jp2",
+    "text": [
+      "asfaS",
+      "FSFDASDF",
+      "SFDSFD"
+    ],
+    "creditTypes": [],
+    "appliedCreditTypes": []
+  },
+  {
+    "id": 5,
+    "url": "bank5",
+    "bgC": "#456465",
+    "tColor": "#fff",
+    "name": [
+      "biznes bank",
+      "SFDSDf",
+      "SFSDFSDfS"
+    ],
+    "logo": "banks/ffcc75fee6f64017a1645284146eeefa.jp2",
+    "text": [
+      "asfaS",
+      "FSFDASDF",
+      "SFDSFD"
+    ],
+    "creditTypes": [],
+    "appliedCreditTypes": []
+  }
+]

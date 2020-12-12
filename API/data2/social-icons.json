@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "active": true,
+    "icon": "fab fa-facebook-f",
+    "link": "#"
+  },
+  {
+    "id": 1,
+    "active": true,
+    "icon": "fab fa-twitter",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "active": true,
+    "icon": "fab fa-instagram",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "active": false,
+    "icon": "",
+    "link": "#"
+  }
+]
